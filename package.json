@@ -1,6 +1,6 @@
 {
   "name": "phaser3-introduction-example",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Phaser 3. Introduction example",
   "main": "src/index.js",
   "scripts": {
@@ -15,12 +15,12 @@
   "author": "Dídac García (https://didaquis.github.io/)",
   "license": "ISC",
   "devDependencies": {
-    "@babel/core": "7",
+    "@babel/core": "7.1.5",
     "babel-loader": "^8.0.4",
     "babel-preset-env": "^1.7.0",
     "raw-loader": "^0.5.1",
-    "webpack": "^4.20.2",
-    "webpack-dev-server": "^3.1.9",
+    "webpack": "^4.25.1",
+    "webpack-dev-server": "^3.1.10",
     "webpack-cli": "^3.1.2"
   },
   "dependencies": {
