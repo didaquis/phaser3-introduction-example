@@ -1,6 +1,6 @@
 {
   "name": "phaser3-introduction-example",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Phaser 3. Introduction example",
   "main": "src/index.js",
   "scripts": {
